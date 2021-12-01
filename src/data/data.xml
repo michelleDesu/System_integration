@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people>
+    <person>
+        <firstname>Carl Gustaf</firstname>
+        <lastname>Bernadotte</lastname>
+        <mobile>0768-101801</mobile>
+        <phone>08-101801</phone>
+        <address>
+            <city>Stockholm</city>
+            <postal>10001</postal>
+            <street>Drottningholms slott</street>
+        </address>
+        <family>
+            <name>Victoria</name>
+            <born>1977</born>
+            <address>
+                <city>Stockholm</city>
+                <postal>10002</postal>
+                <street>Haga Slott</street>
+            </address>
+        </family>
+        <family>
+            <name>Carl Philip</name>
+            <born>1979</born>
+            <mobile>0768-101802</mobile>
+            <phone>08-101802</phone>
+        </family>
+    </person>
+    <person>
+        <firstname>Barack</firstname>
+        <lastname>Obama</lastname>
+        <address>
+            <city>Washington, D.C</city>
+            <street>1600 Pennsylvania Avenue</street>
+        </address>
+        <family>
+            <name>Michelle</name>
+            <born>1964</born>
+            <mobile>0768-101802</mobile>
+            <phone>08-101802</phone>
+            <address>
+                <city>Washington, D.C</city>
+                <street>1600 Pennsylvania Avenue</street>
+            </address>
+        </family>
+    </person>
+    <person>
+        <firstname>Michelle</firstname>
+        <lastname>Olin</lastname>
+        <mobile>073-0322271</mobile>
+        <phone>073-0322271</phone>
+        <address>
+            <city>Listerby</city>
+            <postal>37294</postal>
+            <street>Kuggebodavägen 26</street>
+        </address>
+        <family>
+            <name>Niklas</name>
+            <born>1989</born>
+            <mobile>0768-101802</mobile>
+            <phone>08-101802</phone>
+            <address>
+                <city>Listerby</city>
+                <postal>37294</postal>
+                <street>Kuggebodavägen 26</street>
+            </address>
+        </family>
+        <family>
+            <name>Anna</name>
+            <born>2006</born>
+            <address>
+                <city>Listerby</city>
+                <postal>37294</postal>
+                <street>Kuggebodavägen 26</street>
+            </address>
+        </family>
+        <family>
+            <name>Linus</name>
+            <born>2009</born>
+            <mobile>073-0322271</mobile>
+            <phone>0730-93231</phone>
+        </family>
+        <family>
+            <name>Embla</name>
+            <born>2014</born>
+            <mobile>073-0322271</mobile>
+            <phone>0730-93231</phone>
+            <address>
+                <city>Listerby</city>
+                <postal>37294</postal>
+                <street>Kuggebodavägen 26</street>
+            </address>
+        </family>
+    </person>
+</people>
